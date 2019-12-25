@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  urlApiBertoni: 'https://jsonplaceholder.typicode.com/'
+  urlApiBertoni: 'https://jsonplaceholder.typicode.com/',
+  urlApiPokemon: 'https://pokeapi.co/api/v2/'
 };
 
 /*
